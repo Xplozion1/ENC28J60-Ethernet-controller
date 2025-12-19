@@ -1,5 +1,5 @@
 # ENC28J60-Ethernet-controller
-Разработка платы ENC28J60-Ethernet controller в Altium Designer
+Разработка платы ENC28J60-Ethernet controller в **Altium Designer**
 
 **Описание проекта**
 Эта плата представляет собой контроллер на базе микроконтроллера ATMEGA168A-PU с поддержкой Ethernet-подключения через микросхему ENC28J60. Она предназначена для использования в сетевых устройствах, IoT-проектах и системах автоматизации.
